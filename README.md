@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório dedicado ao **Streamlit**, uma ferramenta revoluci
 
 **Streamlit** é uma plataforma de código aberto que permite criar aplicações web altamente interativas e poderosas utilizando apenas **Python**. Com **Streamlit**, transformo scripts simples em soluções completas e escaláveis, sem a complexidade dos frameworks tradicionais de front-end.  
 
-Empresas líderes como **Chevron** e **Shell** já utilizam o **Streamlit** para:
+Empresas líderes  do mercado assim como as grandes empreas de fora, já utilizam o **Streamlit** para:
 
 - 📊 **Análise de dados em tempo real**, com dashboards interativos e personalizáveis.
 - 🤖 **Automação de processos** para agilizar a tomada de decisão com IA e Machine Learning.
@@ -75,11 +75,16 @@ Esses exemplos representam apenas o **início** de como sua empresa pode tirar p
 
 ## 🌟 **Minha Experiência com Streamlit**  
 
-Em 2024, tive a honra de ser convidado, através de uma consultoria remota, a trabalhar em um projeto estratégico que envolvia duas grandes empresas internacionais: **Chevron** e **Shell**. Neste projeto, criei e implementei soluções avançadas utilizando **Streamlit** e **Dash** para:
+Em 2024, assim como em outras oportunidades passadas, já atuei em pequenos contratos de prestação de serviços para empresas de fora, recentemente tive a honra de ser convidado, através de uma consultoria remota, a trabalhar em um projeto estratégico que envolvia duas grandes empresas internacionais: **Chevron** e **Shell**. Neste projeto, criei e implementei soluções avançadas utilizando **Streamlit** e **Dash** para:
+
 
 - **Análise de Dados Avançada**: Desenvolvi dashboards interativos que conectam diversos pipelines de dados, facilitando a visualização e interpretação de informações cruciais.
 - **Ambientes de Contêineres com Kubernetes**: Trabalhei com a criação e implementação de soluções baseadas em **Kubernetes**, garantindo escalabilidade e alta disponibilidade.
 - **Automação e Agilidade**: Acelerei o processo de análise de dados e tomada de decisões com ferramentas interativas que permitem aos usuários explorar dados de maneira intuitiva e dinâmica.
+- 
+![chevron-logo](https://github.com/user-attachments/assets/b2325a0e-8ef6-43d3-9281-44c744596462)
+
+![png-clipart-royal-dutch-shell-chevron-corporation-logo-petroleum-shell-nigeria-shell-oil-company-symbol](https://github.com/user-attachments/assets/19cf245a-6fe0-450a-a08a-5323947da121)
 
 ---
 
